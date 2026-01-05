@@ -1,0 +1,7 @@
+C:\Users\slimo\Documents\GitHub\LionLike7\260105_project3\260105_project3\bin\Debug\260105_project3.exe.config
+C:\Users\slimo\Documents\GitHub\LionLike7\260105_project3\260105_project3\bin\Debug\260105_project3.exe
+C:\Users\slimo\Documents\GitHub\LionLike7\260105_project3\260105_project3\bin\Debug\260105_project3.pdb
+C:\Users\slimo\Documents\GitHub\LionLike7\260105_project3\260105_project3\obj\Debug\260105_project3.csproj.AssemblyReference.cache
+C:\Users\slimo\Documents\GitHub\LionLike7\260105_project3\260105_project3\obj\Debug\260105_project3.csproj.CoreCompileInputs.cache
+C:\Users\slimo\Documents\GitHub\LionLike7\260105_project3\260105_project3\obj\Debug\260105_project3.exe
+C:\Users\slimo\Documents\GitHub\LionLike7\260105_project3\260105_project3\obj\Debug\260105_project3.pdb
