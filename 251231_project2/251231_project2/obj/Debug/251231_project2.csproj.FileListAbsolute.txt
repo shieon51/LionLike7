@@ -1,0 +1,7 @@
+C:\Users\slimo\source\repos\likelion_proj1\251231_project2\251231_project2\bin\Debug\251231_project2.exe.config
+C:\Users\slimo\source\repos\likelion_proj1\251231_project2\251231_project2\bin\Debug\251231_project2.exe
+C:\Users\slimo\source\repos\likelion_proj1\251231_project2\251231_project2\bin\Debug\251231_project2.pdb
+C:\Users\slimo\source\repos\likelion_proj1\251231_project2\251231_project2\obj\Debug\251231_project2.csproj.AssemblyReference.cache
+C:\Users\slimo\source\repos\likelion_proj1\251231_project2\251231_project2\obj\Debug\251231_project2.csproj.CoreCompileInputs.cache
+C:\Users\slimo\source\repos\likelion_proj1\251231_project2\251231_project2\obj\Debug\251231_project2.exe
+C:\Users\slimo\source\repos\likelion_proj1\251231_project2\251231_project2\obj\Debug\251231_project2.pdb
