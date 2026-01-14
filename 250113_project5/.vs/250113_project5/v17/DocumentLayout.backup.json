@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\250113_project5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66A4AA90-8DF8-496C-91CF-ECBF34660003}|250113_project5\\250113_project5.csproj|c:\\users\\slimo\\documents\\github\\lionlike7\\250113_project5\\250113_project5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A4AA90-8DF8-496C-91CF-ECBF34660003}|250113_project5\\250113_project5.csproj|solutionrelative:250113_project5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\250113_project5\\250113_project5\\Program.cs",
+              "RelativeDocumentMoniker": "250113_project5\\Program.cs",
+              "ToolTip": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\250113_project5\\250113_project5\\Program.cs*",
+              "RelativeToolTip": "250113_project5\\Program.cs*",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAWwGQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:13:58.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
