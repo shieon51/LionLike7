@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\260115_project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CECFF4BA-D34B-47C7-9A4E-0F2CD31880C5}|260115_project3\\260115_project3.csproj|c:\\users\\slimo\\documents\\github\\lionlike7\\260115_project3\\260115_project3\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECFF4BA-D34B-47C7-9A4E-0F2CD31880C5}|260115_project3\\260115_project3.csproj|solutionrelative:260115_project3\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECFF4BA-D34B-47C7-9A4E-0F2CD31880C5}|260115_project3\\260115_project3.csproj|c:\\users\\slimo\\documents\\github\\lionlike7\\260115_project3\\260115_project3\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECFF4BA-D34B-47C7-9A4E-0F2CD31880C5}|260115_project3\\260115_project3.csproj|solutionrelative:260115_project3\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECFF4BA-D34B-47C7-9A4E-0F2CD31880C5}|260115_project3\\260115_project3.csproj|c:\\users\\slimo\\documents\\github\\lionlike7\\260115_project3\\260115_project3\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECFF4BA-D34B-47C7-9A4E-0F2CD31880C5}|260115_project3\\260115_project3.csproj|solutionrelative:260115_project3\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECFF4BA-D34B-47C7-9A4E-0F2CD31880C5}|260115_project3\\260115_project3.csproj|c:\\users\\slimo\\documents\\github\\lionlike7\\260115_project3\\260115_project3\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECFF4BA-D34B-47C7-9A4E-0F2CD31880C5}|260115_project3\\260115_project3.csproj|solutionrelative:260115_project3\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECFF4BA-D34B-47C7-9A4E-0F2CD31880C5}|260115_project3\\260115_project3.csproj|c:\\users\\slimo\\documents\\github\\lionlike7\\260115_project3\\260115_project3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECFF4BA-D34B-47C7-9A4E-0F2CD31880C5}|260115_project3\\260115_project3.csproj|solutionrelative:260115_project3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECFF4BA-D34B-47C7-9A4E-0F2CD31880C5}|260115_project3\\260115_project3.csproj|c:\\users\\slimo\\documents\\github\\lionlike7\\260115_project3\\260115_project3\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECFF4BA-D34B-47C7-9A4E-0F2CD31880C5}|260115_project3\\260115_project3.csproj|solutionrelative:260115_project3\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\260115_project3\\260115_project3\\Field.cs",
+              "RelativeDocumentMoniker": "260115_project3\\Field.cs",
+              "ToolTip": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\260115_project3\\260115_project3\\Field.cs",
+              "RelativeToolTip": "260115_project3\\Field.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:45:28.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\260115_project3\\260115_project3\\Monster.cs",
+              "RelativeDocumentMoniker": "260115_project3\\Monster.cs",
+              "ToolTip": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\260115_project3\\260115_project3\\Monster.cs",
+              "RelativeToolTip": "260115_project3\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:44:02.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\260115_project3\\260115_project3\\MainGame.cs",
+              "RelativeDocumentMoniker": "260115_project3\\MainGame.cs",
+              "ToolTip": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\260115_project3\\260115_project3\\MainGame.cs",
+              "RelativeToolTip": "260115_project3\\MainGame.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwC4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:25:08.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INFO.cs",
+              "DocumentMoniker": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\260115_project3\\260115_project3\\INFO.cs",
+              "RelativeDocumentMoniker": "260115_project3\\INFO.cs",
+              "ToolTip": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\260115_project3\\260115_project3\\INFO.cs",
+              "RelativeToolTip": "260115_project3\\INFO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:15:19.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\260115_project3\\260115_project3\\Player.cs",
+              "RelativeDocumentMoniker": "260115_project3\\Player.cs",
+              "ToolTip": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\260115_project3\\260115_project3\\Player.cs",
+              "RelativeToolTip": "260115_project3\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:11:09.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\260115_project3\\260115_project3\\Program.cs",
+              "RelativeDocumentMoniker": "260115_project3\\Program.cs",
+              "ToolTip": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\260115_project3\\260115_project3\\Program.cs",
+              "RelativeToolTip": "260115_project3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:10:36.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
