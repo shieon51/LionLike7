@@ -1,0 +1,7 @@
+C:\Users\slimo\Documents\GitHub\LionLike7\ConsoleProject_2601\ConsoleProject_2601\bin\Debug\ConsoleProject_2601.exe.config
+C:\Users\slimo\Documents\GitHub\LionLike7\ConsoleProject_2601\ConsoleProject_2601\bin\Debug\ConsoleProject_2601.exe
+C:\Users\slimo\Documents\GitHub\LionLike7\ConsoleProject_2601\ConsoleProject_2601\bin\Debug\ConsoleProject_2601.pdb
+C:\Users\slimo\Documents\GitHub\LionLike7\ConsoleProject_2601\ConsoleProject_2601\obj\Debug\ConsoleProject_2601.csproj.AssemblyReference.cache
+C:\Users\slimo\Documents\GitHub\LionLike7\ConsoleProject_2601\ConsoleProject_2601\obj\Debug\ConsoleProject_2601.csproj.CoreCompileInputs.cache
+C:\Users\slimo\Documents\GitHub\LionLike7\ConsoleProject_2601\ConsoleProject_2601\obj\Debug\ConsoleProject_2601.exe
+C:\Users\slimo\Documents\GitHub\LionLike7\ConsoleProject_2601\ConsoleProject_2601\obj\Debug\ConsoleProject_2601.pdb
