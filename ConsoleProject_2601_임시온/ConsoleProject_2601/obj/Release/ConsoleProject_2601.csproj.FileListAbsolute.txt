@@ -1,0 +1,11 @@
+C:\Users\slimo\Documents\GitHub\LionLike7\ConsoleProject_2601_임시온\ConsoleProject_2601\bin\Release\ConsoleProject_2601.exe.config
+C:\Users\slimo\Documents\GitHub\LionLike7\ConsoleProject_2601_임시온\ConsoleProject_2601\bin\Release\ConsoleProject_2601.exe.manifest
+C:\Users\slimo\Documents\GitHub\LionLike7\ConsoleProject_2601_임시온\ConsoleProject_2601\bin\Release\ConsoleProject_2601.application
+C:\Users\slimo\Documents\GitHub\LionLike7\ConsoleProject_2601_임시온\ConsoleProject_2601\bin\Release\ConsoleProject_2601.exe
+C:\Users\slimo\Documents\GitHub\LionLike7\ConsoleProject_2601_임시온\ConsoleProject_2601\bin\Release\ConsoleProject_2601.pdb
+C:\Users\slimo\Documents\GitHub\LionLike7\ConsoleProject_2601_임시온\ConsoleProject_2601\obj\Release\ConsoleProject_2601.csproj.AssemblyReference.cache
+C:\Users\slimo\Documents\GitHub\LionLike7\ConsoleProject_2601_임시온\ConsoleProject_2601\obj\Release\ConsoleProject_2601.csproj.CoreCompileInputs.cache
+C:\Users\slimo\Documents\GitHub\LionLike7\ConsoleProject_2601_임시온\ConsoleProject_2601\obj\Release\ConsoleProject_2601.exe.manifest
+C:\Users\slimo\Documents\GitHub\LionLike7\ConsoleProject_2601_임시온\ConsoleProject_2601\obj\Release\ConsoleProject_2601.application
+C:\Users\slimo\Documents\GitHub\LionLike7\ConsoleProject_2601_임시온\ConsoleProject_2601\obj\Release\ConsoleProject_2601.exe
+C:\Users\slimo\Documents\GitHub\LionLike7\ConsoleProject_2601_임시온\ConsoleProject_2601\obj\Release\ConsoleProject_2601.pdb

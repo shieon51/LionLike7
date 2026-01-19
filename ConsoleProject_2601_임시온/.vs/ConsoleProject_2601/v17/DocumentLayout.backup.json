@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\ConsoleProject_2601_\uC784\uC2DC\uC628\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleProject_2601||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A43B4-16E4-46B9-8B7B-9DCA3CD5ADE9}|ConsoleProject_2601\\ConsoleProject_2601.csproj|C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\ConsoleProject_2601_\uC784\uC2DC\uC628\\consoleproject_2601\\animator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7A43B4-16E4-46B9-8B7B-9DCA3CD5ADE9}|ConsoleProject_2601\\ConsoleProject_2601.csproj|solutionrelative:consoleproject_2601\\animator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A43B4-16E4-46B9-8B7B-9DCA3CD5ADE9}|ConsoleProject_2601\\ConsoleProject_2601.csproj|c:\\users\\slimo\\documents\\github\\lionlike7\\consoleproject_2601_\uC784\uC2DC\uC628\\consoleproject_2601\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7A43B4-16E4-46B9-8B7B-9DCA3CD5ADE9}|ConsoleProject_2601\\ConsoleProject_2601.csproj|solutionrelative:consoleproject_2601\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A43B4-16E4-46B9-8B7B-9DCA3CD5ADE9}|ConsoleProject_2601\\ConsoleProject_2601.csproj|C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\ConsoleProject_2601_\uC784\uC2DC\uC628\\consoleproject_2601\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7A43B4-16E4-46B9-8B7B-9DCA3CD5ADE9}|ConsoleProject_2601\\ConsoleProject_2601.csproj|solutionrelative:consoleproject_2601\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A43B4-16E4-46B9-8B7B-9DCA3CD5ADE9}|ConsoleProject_2601\\ConsoleProject_2601.csproj|C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\ConsoleProject_2601_\uC784\uC2DC\uC628\\consoleproject_2601\\screenbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7A43B4-16E4-46B9-8B7B-9DCA3CD5ADE9}|ConsoleProject_2601\\ConsoleProject_2601.csproj|solutionrelative:consoleproject_2601\\screenbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A43B4-16E4-46B9-8B7B-9DCA3CD5ADE9}|ConsoleProject_2601\\ConsoleProject_2601.csproj|C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\ConsoleProject_2601_\uC784\uC2DC\uC628\\consoleproject_2601\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7A43B4-16E4-46B9-8B7B-9DCA3CD5ADE9}|ConsoleProject_2601\\ConsoleProject_2601.csproj|solutionrelative:consoleproject_2601\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A43B4-16E4-46B9-8B7B-9DCA3CD5ADE9}|ConsoleProject_2601\\ConsoleProject_2601.csproj|C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\ConsoleProject_2601_\uC784\uC2DC\uC628\\consoleproject_2601\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7A43B4-16E4-46B9-8B7B-9DCA3CD5ADE9}|ConsoleProject_2601\\ConsoleProject_2601.csproj|solutionrelative:consoleproject_2601\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7A43B4-16E4-46B9-8B7B-9DCA3CD5ADE9}|ConsoleProject_2601\\ConsoleProject_2601.csproj|c:\\users\\slimo\\documents\\github\\lionlike7\\consoleproject_2601_\uC784\uC2DC\uC628\\consoleproject_2601\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 377,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleProject_2601",
+              "DocumentMoniker": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\ConsoleProject_2601_\uC784\uC2DC\uC628\\ConsoleProject_2601\\ConsoleProject_2601.csproj",
+              "RelativeDocumentMoniker": "ConsoleProject_2601\\ConsoleProject_2601.csproj",
+              "ToolTip": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\ConsoleProject_2601_\uC784\uC2DC\uC628\\ConsoleProject_2601\\ConsoleProject_2601.csproj",
+              "RelativeToolTip": "ConsoleProject_2601\\ConsoleProject_2601.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-19T11:11:07.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animator.cs",
+              "DocumentMoniker": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\ConsoleProject_2601_\uC784\uC2DC\uC628\\ConsoleProject_2601\\Animator.cs",
+              "RelativeDocumentMoniker": "ConsoleProject_2601\\Animator.cs",
+              "ToolTip": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\ConsoleProject_2601_\uC784\uC2DC\uC628\\ConsoleProject_2601\\Animator.cs",
+              "RelativeToolTip": "ConsoleProject_2601\\Animator.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAHIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T16:11:04.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\ConsoleProject_2601_\uC784\uC2DC\uC628\\ConsoleProject_2601\\Game.cs",
+              "RelativeDocumentMoniker": "ConsoleProject_2601\\Game.cs",
+              "ToolTip": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\ConsoleProject_2601_\uC784\uC2DC\uC628\\ConsoleProject_2601\\Game.cs",
+              "RelativeToolTip": "ConsoleProject_2601\\Game.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAYwNIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:42:01.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\ConsoleProject_2601_\uC784\uC2DC\uC628\\ConsoleProject_2601\\Bullet.cs",
+              "RelativeDocumentMoniker": "ConsoleProject_2601\\Bullet.cs",
+              "ToolTip": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\ConsoleProject_2601_\uC784\uC2DC\uC628\\ConsoleProject_2601\\Bullet.cs",
+              "RelativeToolTip": "ConsoleProject_2601\\Bullet.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvz8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:37:53.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\ConsoleProject_2601_\uC784\uC2DC\uC628\\ConsoleProject_2601\\Player.cs",
+              "RelativeDocumentMoniker": "ConsoleProject_2601\\Player.cs",
+              "ToolTip": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\ConsoleProject_2601_\uC784\uC2DC\uC628\\ConsoleProject_2601\\Player.cs",
+              "RelativeToolTip": "ConsoleProject_2601\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:31:55.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScreenBuffer.cs",
+              "DocumentMoniker": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\ConsoleProject_2601_\uC784\uC2DC\uC628\\ConsoleProject_2601\\ScreenBuffer.cs",
+              "RelativeDocumentMoniker": "ConsoleProject_2601\\ScreenBuffer.cs",
+              "ToolTip": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\ConsoleProject_2601_\uC784\uC2DC\uC628\\ConsoleProject_2601\\ScreenBuffer.cs",
+              "RelativeToolTip": "ConsoleProject_2601\\ScreenBuffer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:22:00.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\ConsoleProject_2601_\uC784\uC2DC\uC628\\ConsoleProject_2601\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleProject_2601\\Program.cs",
+              "ToolTip": "C:\\Users\\slimo\\Documents\\GitHub\\LionLike7\\ConsoleProject_2601_\uC784\uC2DC\uC628\\ConsoleProject_2601\\Program.cs",
+              "RelativeToolTip": "ConsoleProject_2601\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:14:14.303Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
